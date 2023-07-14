@@ -16,6 +16,6 @@ export default function Sortby({ options }) {
       type="white"
       onChange={handleChange}
       value={sortBy}
-    ></Select>
+    />
   );
 }
